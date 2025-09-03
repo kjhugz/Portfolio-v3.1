@@ -1,0 +1,46 @@
+@charset "utf-8";
+
+body.dark{
+	background-color: #000;
+	color: #bbb;
+}
+body.dark h3{
+	color: #fff;
+}
+body.dark .kshv_j_topbar.animate{
+	background-color: #000;
+	box-shadow: 0px 0px 20px rgb(255 255 255 / 9%);
+}
+body.dark .kshv_j_topbar.animate .logo .dark{display: none;}
+body.dark .kshv_j_topbar.animate .logo .light{display: block;}
+body.dark .kshv_j_topbar.animate .menu ul li a{color: #fff;}
+body.dark .kshv_j_about .left .about_image_wrap .border .inner{border-color: rgba(255,255,255,.2);}
+body.dark .kshv_j_about ul li label{color: #fff;}
+body.dark .kshv_j_about .about_short_contact_wrap ul li a{color: #fff;}
+body.dark .kshv_j_services{background-color: #111;}
+body.dark .kshv_j_services .service_inner ul li .inner{
+	background-color: #000;
+	box-shadow: 0px 0px 20px rgb(255 255 255 / 9%);
+}
+body.dark .kshv_j_services .service_inner ul li .inner:hover{box-shadow: 0px 0px 20px rgb(255 255 255 / 20%);}
+body.dark .kshv_j_services .lets_work a{color: #fff;}
+body.dark .kshv_j_services .lets_work a:before{background: rgba(255,255,255,.2);}
+body.dark .kshv_j_portfolio .portfolio_filter ul li a{color: #fff;}
+body.dark .kshv_j_news{background-color: #111;}
+body.dark .kshv_j_news .news_list ul li .details .title a{color: #fff;}
+body.dark .kshv_j_news .news_list ul li .details .date{color: #bbb;}
+body.dark .kshv_j_news .news_list ul li .details .date a{color: #bbb;}
+body.dark .kshv_j_modalbox_news .details .title{color: #000;}
+body.dark .kshv_j_modalbox_news .description p{color: #333;}
+body.dark .kshv_j_contact .fields ul li input{
+	background-color: transparent;
+	border: 1px solid rgba(255,255,255,.2);
+	color: #fff;
+}
+body.dark .kshv_j_contact .fields .last textarea{
+	background-color: transparent;
+	border: 1px solid rgba(255,255,255,.2);
+	color: #fff;
+}
+body.dark .kshv_j_copyright{background-color: #111;}
+body.dark .kshv_j_leftpart{background-color: #000;border-right: 1px solid rgba(255,255,255,.08);}
